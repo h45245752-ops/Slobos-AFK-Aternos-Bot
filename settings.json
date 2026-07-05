@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Geralt-9G3m.aternos.me",
+    "ip": "Geralt-9G3m.aternos.me:54830",
     "port": 54830,
     "version": "",
     "try-creative": false
